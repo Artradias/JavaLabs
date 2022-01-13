@@ -1,0 +1,12 @@
+
+*.xml
+*.html
+Lab4-5/out/production/Lab4-5/com/company/Achievement.class
+Lab4-5/out/production/Lab4-5/com/company/AchievementsPit.class
+Lab4-5/out/production/Lab4-5/com/company/Human.class
+Lab4-5/out/production/Lab4-5/com/company/Main.class
+Lab4-5/out/production/Lab4-5/com/company/ReviewsPit.class
+Lab4-5/out/production/Lab4-5/com/company/Student.class
+Lab4-5/out/production/Lab4-5/com/company/Task.class
+Lab4-5/out/production/Lab4-5/com/company/TasksPit.class
+Lab4-5/Lab4-5.iml
